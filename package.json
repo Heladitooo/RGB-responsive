@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "get-image-colors": "^4.0.0",
+    "jimp": "^0.16.1",
+    "mqtt": "^4.2.6",
+    "screenshot-desktop": "^1.12.3"
+  },
+  "name": "rgb-responsive",
+  "version": "1.0.0",
+  "description": "Change rgb of led",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heladitooo/RGB-responsive.git"
+  },
+  "author": "Heladitooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heladitooo/RGB-responsive/issues"
+  },
+  "homepage": "https://github.com/Heladitooo/RGB-responsive#readme"
+}
